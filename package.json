@@ -1,0 +1,11 @@
+{
+  "name": "mctestlauncher",
+  "version": "1.0.0",
+  "description": "launches minecraft configured to mctest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EthicalObligation",
+  "license": "ISC"
+}
